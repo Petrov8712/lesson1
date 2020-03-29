@@ -1,2 +1,2 @@
 # lesson1
-Linux DevOps Tools lesson1
+Linux DevOps Instruments Lesson1
